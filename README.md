@@ -5,7 +5,7 @@
 ![Tools](https://img.shields.io/badge/tools-20%2B-red)
 ![PDF Reports](https://img.shields.io/badge/reports-PDF/DOCX-blueviolet)
 ![Cloud](https://img.shields.io/badge/Cloud-S3%20Bucket%20Enum-informational)
-![Intern Project](https://img.shields.io/badge/Intern%20Level-Research%20Based-lightgrey)
+![Intern Project](https://img.shields.io/badge/Intern%20Level-Research%20Based-yellow)
 
 This repository showcases a series of practical **ethical hacking** and **cybersecurity** projects completed as part of my learning and personal research. Each project demonstrates the use of industry-standard tools for vulnerability assessment, exploitation, malware analysis, cloud enumeration, and more.
 
