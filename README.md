@@ -1,5 +1,11 @@
 # 🛡️ Ethical Hacking Projects by Shimon Talukder Raj
 
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Made With](https://img.shields.io/badge/made%20with-Ethical%20Hacking-orange)
+![Tools](https://img.shields.io/badge/tools-20%2B-red)
+![PDF Reports](https://img.shields.io/badge/reports-PDF-blueviolet)
+
 This repository showcases a series of practical **ethical hacking** and **cybersecurity** projects completed as part of my learning and personal research. Each project demonstrates the use of industry-standard tools for vulnerability assessment, exploitation, malware analysis, cloud enumeration, and more.
 
 All activities were performed in **legal, controlled environments** for **educational purposes only**.
