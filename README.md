@@ -31,6 +31,7 @@ All activities were performed in **legal, controlled environments** for **educat
 | 🧯 **CVE-2024-21403 Azure Vulnerability Report** | Investigated misconfigured Azure assets and disclosed findings. |
 | 🔐 **Crypto_Analysis_Report** | Analyzed encrypted data and weak crypto using CyberChef. |
 | 📡 **Aircrack_and_SQLi_Report** | Wireless attacks using aircrack-ng and follow-up SQL injection on captured portals. |
+| 🎯 CTF Challenges Writeups | Solved Capture The Flag challenges on platforms like TryHackMe, Hack The Box, and PicoCTF with detailed writeups and flag decoding techniques. |
 
 ---
 
