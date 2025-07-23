@@ -39,4 +39,7 @@ All activities were performed in **legal, controlled environments** for **educat
 
 ## 🧰 Tools & Technologies Used
 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-4E8EE9?style=for-the-badge) ![SQLMap](https://img.shields.io/badge/SQLMap-9B59B6?style=for-the-badge) ![MobSF](https://img.shields.io/badge/MobSF-000000?style=for-the-badge) 
+
+![Nessus](https://img.shields.io/badge/Nessus-003366?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-0070C0?style=for-the-badge&logo=gnometerminal&logoColor=white) ![RED HAWK](https://img.shields.io/badge/RED_HAWK-CC0000?style=for-the-badge&logo=target&logoColor=white) ![WebGoat](https://img.shields.io/badge/WebGoat-800000?style=for-the-badge&logo=goat&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
