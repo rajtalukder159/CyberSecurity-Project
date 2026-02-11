@@ -1,5 +1,7 @@
-# 🛡️ Ethical Hacking Projects by Shimon Talukder Raj
+# 🛡️ Ethical Hacking & Cybersecurity Projects
+**By Shimon Talukder Raj**  
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rajtalukder2006.png)](https://tryhackme.com/p/rajtalukder2006)
+GitHub: [rajtalukder159](https://github.com/rajtalukder159)
 
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-rajtalukder159-9ef300?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/HTB-C6A5F60B34)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
@@ -9,37 +11,53 @@
 ![Cloud](https://img.shields.io/badge/Cloud-S3%20Bucket%20Enum-informational)
 ![Intern Project](https://img.shields.io/badge/Intern%20Level-Research%20Based-yellow)
 
-This repository showcases a series of practical **ethical hacking** and **cybersecurity** projects completed as part of my learning and personal research. Each project demonstrates the use of industry-standard tools for vulnerability assessment, exploitation, malware analysis, cloud enumeration, and more.
 
-All activities were performed in **legal, controlled environments** for **educational purposes only**.
+This repository showcases a series of **practical cybersecurity projects** I have completed as part of my learning journey. Each project demonstrates hands-on skills in **ethical hacking, penetration testing, vulnerability assessment, web/mobile security, malware analysis, and digital forensics**.  
+
+> All activities were performed in **legal, controlled environments** for educational purposes.
 
 ---
 
 ## 📁 Project List
 
-| Project Name | Description |
-|--------------|-------------|
-| 🔍 **Information Gathering** | Collected DNS, OS, traceroute, and network info using tools like Shodan, Recon-ng, and ARIN. |
-| 🛠️ **Vulnerability_Assessment_Report** | Performed comprehensive scans using Nessus, OpenVAS, and HostedScan. |
-| 🔄 **OWASP ZAP Security Scan** | Web application vulnerability scanning using OWASP ZAP. |
-| 🐍 **SQL_Injection_Report** | Manual and automated SQLi using Burp Suite and SQLMap. |
-| 👁️ **Blind SQL Injection** | Time-based and boolean-based blind SQL injection exploitation. |
-| 💣 **Metasploit_Exploit_Report** | Exploited known vulnerabilities with Metasploit modules. |
-| 🧬 **Malware_Analysis_Report_VirusTotal** | Investigated malware samples using VirusTotal and threat intel. |
-| 📱 **Malicious_APK_Analysis_Report** | APK reverse engineering with MobSF and APKTool. |
-| 🧨 **Privilege Escalation Vulnerability Report** | Escalated privileges in test environments using Linux misconfigs. |
-| ☁️ **S3_Bucket_Enumeration_Report** | Enumerated AWS S3 buckets using LazyS3, AWS CLI, and open recon tools. |
-| 🛡️ **CVE-2025-1323 SQLi Exploit** | Crafted proof-of-concept for SQL injection in known CVE. |
-| 🧯 **CVE-2024-21403 Azure Vulnerability Report** | Investigated misconfigured Azure assets and disclosed findings. |
-| 🔐 **Crypto_Analysis_Report** | Analyzed encrypted data and weak crypto using CyberChef. |
-| 📡 **Aircrack_and_SQLi_Report** | Wireless attacks using aircrack-ng and follow-up SQL injection on captured portals. |
-| 🎯 CTF Challenges Writeups | Solved Capture The Flag challenges on platforms like TryHackMe, Hack The Box, and PicoCTF with detailed writeups and flag decoding techniques. |
+| # | Project Name | Description | Tools / Skills |
+|---|--------------|------------|----------------|
+| 01 | 🖥️ Ethical Hacking Lab Setup | Setup Linux VM & VirtualBox lab, practiced Linux commands and networking basics | VirtualBox, Linux, Terminal |
+| 02 | 🔍 Information Gathering & Reconnaissance | Collected website info, DNS, OS, network, and used Recon-ng for recon | Shodan, Recon-ng, ARIN |
+| 03 | 🛠️ Vulnerability Assessment | Performed VA with credentials, ZAP, OpenVAS, and other scanners | Nessus, OpenVAS, OWASP ZAP |
+| 04 | ⚡ Exploitation Techniques | Ran exploits using Metasploit on vulnerable machines | Metasploit Framework |
+| 05 | 🌐 Web Application Security | SQLi attacks on DVWA & WebGoat, used Burp Suite, ZAP, Metasploit | DVWA, WebGoat, Burp Suite, ZAP |
+| 06 | 🔑 Web Pentesting: Directory Traversal & Bruteforce | Brute-force via FTP, SSH, Telnet; Directory traversal using dirsearch | Metasploit, Dirsearch |
+| 07 | 🖧 System / Server Hacking | FTP, Samba, HTTP, SMTP, SSH, Telnet attacks | Metasploit, Linux |
+| 08 | 🕵️‍♂️ Live Server Hacking | Man-in-the-middle attack and packet analysis using Wireshark | Wireshark, MITM |
+| 09 | 🏢 Enterprise Windows Security | Configured Windows Server DC, Group Policies, access management | Windows Server, GPO |
+| 10 | 📱 Mobile Application Security | Analyzed malicious Android apps with MobSF & Mobexler | MobSF, Mobexler, APKTool |
+| 11 | 🔐 Cryptography & Digital Forensics | Enumerated S3 buckets, crypto analysis using CyberChef | LazyS3, CyberChef |
+| 12 | 🧬 Malware Analysis & SOC | Malware analysis (ELF/PE), VirusTotal, IDS & firewall evasion | VirusTotal, DIE Tool, SOC |
+| 13 | 🗂️ ICT Security Policy + ISO27001-2022 | Security audit lifecycle, risk assessment, compliance, audit checklist | ISO27001, Security Audit |
 
 ---
 
 ## 🧰 Tools & Technologies Used
+- **Web / App Security:** Burp Suite, OWASP ZAP, DVWA, WebGoat  
+- **Exploitation / Pentesting:** Metasploit, SQLMap, Dirsearch  
+- **Cloud / Forensics:** LazyS3, CyberChef, VirusTotal, MobSF  
+- **Networking / Recon:** Nmap, Shodan, ARIN, Wireshark  
+- **Operating Systems:** Linux, Windows Server, Windows 10/11  
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-4E8EE9?style=for-the-badge) ![SQLMap](https://img.shields.io/badge/SQLMap-9B59B6?style=for-the-badge) ![MobSF](https://img.shields.io/badge/MobSF-000000?style=for-the-badge) 
+---
 
-![Nessus](https://img.shields.io/badge/Nessus-003366?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-0070C0?style=for-the-badge&logo=gnometerminal&logoColor=white) ![RED HAWK](https://img.shields.io/badge/RED_HAWK-CC0000?style=for-the-badge&logo=target&logoColor=white) ![WebGoat](https://img.shields.io/badge/WebGoat-800000?style=for-the-badge&logo=goat&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 📌 Highlights
+- Projects are **numbered to show progression** from lab setup → web & system exploitation → advanced forensic analysis  
+- Each project has **reports, screenshots, and practical proofs**  
+- Legal, controlled environments; suitable for **portfolio review** or **recruiter showcase**  
+
+---
+
+## ⚡ Next Steps
+I will **continuously update this repository** with new labs and advanced penetration testing reports.  
+
+> “Learning by doing is the fastest path to mastery in cybersecurity.”  
+
+
 
