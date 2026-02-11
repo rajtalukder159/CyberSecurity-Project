@@ -1,7 +1,6 @@
 # 🛡️ Ethical Hacking & Cybersecurity Projects
 **By Shimon Talukder Raj**  
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rajtalukder2006.png)](https://tryhackme.com/p/rajtalukder2006)
-GitHub: [rajtalukder159](https://github.com/rajtalukder159)
 
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-rajtalukder159-9ef300?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/HTB-C6A5F60B34)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
